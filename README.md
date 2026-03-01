@@ -41,6 +41,12 @@
 ⚡ **Fun fact:**
 * I’ve already built real-time AI systems that analyze live public opinion data — and I started doing predictive modeling before finishing my degree.
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ---
 
 ## 💻 Tech Stack
