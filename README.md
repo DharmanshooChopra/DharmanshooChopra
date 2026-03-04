@@ -99,7 +99,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DharmanshooChopra&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DharmanshooChopra&theme=dark&hide_border=false" alt="Streak Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=DharmanshooChopra&theme=dark&hide_border=false" alt="Streak Stats" width="48%" />
 </div>
 
 <br>
@@ -123,9 +123,7 @@
 ---
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=DharmanshooChopra&icon=0&color=0" alt="Profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=DharmanshooChopra&color=blue&style=flat-square" alt="Profile views" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) and refined 😊 -->
